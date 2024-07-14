@@ -12,6 +12,9 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
@@ -24,9 +27,6 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
@@ -35,19 +35,12 @@
     </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats-robsoneds-projects.vercel.app/api/top-langs?username=robsoned&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="robsoned" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-stats-robsoneds-projects.vercel.app/api?username=robsoned&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&locale=en" alt="robsoned" />
-</p>
-
-<p>
-    <img align="center" src="https://streak-stats.demolab.com?user=robsoned&theme=vue-dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="robsoned" />
-</p>
 
 
-<p>
-    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=robsoned&limit=5&theme=vue-dark&combine_all_yearly_contributions=true&hide_border=true" alt="robsoned" />
-</p>
+
+<img src="https://github-readme-stats-robsoneds-projects.vercel.app/api?username=robsoned&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&locale=en" alt="robsoned" width="56.93%" /><img src="https://github-contributor-stats.vercel.app/api?username=robsoned&limit=5&theme=vue-dark&combine_all_yearly_contributions=true&hide_border=true" alt="robsoned" width="43.07%" />
+
+
+
+<img src="https://github-readme-stats-robsoneds-projects.vercel.app/api/top-langs?username=robsoned&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="robsoned" width="41.7%" /><img src="https://streak-stats.demolab.com?user=robsoned&theme=vue-dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="robsoned" width="58.3%" />
+
