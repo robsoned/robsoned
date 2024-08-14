@@ -42,5 +42,5 @@
 
 
 
-<img src="https://github-readme-stats-robsoneds-projects.vercel.app/api/top-langs?username=robsoned&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&size_weight=0&count_weight=1" alt="robsoned" width="41.7%" /><img src="https://streak-stats.demolab.com?user=robsoned&theme=vue-dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="robsoned" width="58.3%" />
+<img src="https://github-readme-stats-robsoneds-projects.vercel.app/api/top-langs?username=robsoned&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.5&hide=c#" alt="robsoned" width="41.7%" /><img src="https://streak-stats.demolab.com?user=robsoned&theme=vue-dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="robsoned" width="58.3%" />
 
