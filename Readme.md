@@ -34,13 +34,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
 </p>
-
-
-
-
-<img src="https://github-readme-stats-robsoneds-projects.vercel.app/api?username=robsoned&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&locale=en" alt="robsoned" width="56.93%" /><img src="https://github-contributor-stats.vercel.app/api?username=robsoned&limit=5&theme=vue-dark&combine_all_yearly_contributions=true&hide_border=true" alt="robsoned" width="43.07%" />
-
-
-
-<img src="https://github-readme-stats-robsoneds-projects.vercel.app/api/top-langs?username=robsoned&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6&hide=html,css,less,csharp,java,c%23,VCL" alt="robsoned" width="41.7%" /><img src="https://streak-stats.demolab.com?user=robsoned&theme=vue-dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="robsoned" width="58.3%" />
-
